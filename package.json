@@ -1,0 +1,11 @@
+{
+  "name": "skychain",
+  "author": "Sim Young Jae",
+  "homepage": "https://github.com/Hanul/skychain",
+  "dependencies": {
+    "ethers": "^5.0.32",
+    "mongodb": "^4.1.0",
+    "skyserver": "^0.0.5",
+    "skyutil": "^0.0.9"
+  }
+}
